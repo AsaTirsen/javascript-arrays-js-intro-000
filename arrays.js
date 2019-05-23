@@ -20,5 +20,6 @@ function destructivelyAddElementToEndOfArray(array, element) {
 
 function accessElementInArray(array, index) {
   array = [];
-  return array[];
+  var = array.findIndex();
+  return a;
 }
